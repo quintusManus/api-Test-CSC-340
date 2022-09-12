@@ -8,6 +8,10 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.Scanner;
 
+/**
+ *Uses the world time api to get info about Salta Argentina, then gives the day 
+ *of the year.
+**/
 public class Main {
 
     public static void main(String[] args) throws MalformedURLException, IOException {
